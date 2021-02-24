@@ -51,3 +51,4 @@ print(reservoirSamplingk(arr, 4))
 
 结果：
 [2, 9, 4, 1]
+#每次运行不一样
